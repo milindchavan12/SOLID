@@ -11,4 +11,4 @@ Now to have substitutability work, child classes must not :
 The Liskov Principle is implemented in "Solid.Liskov" Project
 
 # 4. Interface Segregation Principle (ISP)
-The Interface Segregation Principle states that client should not be forced to depend on methods they do not use.
+The Interface Segregation Principle states that client should not be forced to depend on methods they do not use. Interface Segregation violations result in the classes that depends upon they don't need, increasing coupling, reducing flexibility and maintainability.  
