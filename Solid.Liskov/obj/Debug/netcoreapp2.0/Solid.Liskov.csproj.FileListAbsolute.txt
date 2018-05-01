@@ -1,0 +1,14 @@
+/Volumes/18Ware/private/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.csproj.CoreCompileInputs.cache
+/Volumes/18Ware/private/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.AssemblyInfoInputs.cache
+/Volumes/18Ware/private/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.AssemblyInfo.cs
+/Volumes/18Ware/private/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.dll
+/Volumes/18Ware/private/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.pdb
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/bin/Debug/netcoreapp2.0/Solid.Liskov.deps.json
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/bin/Debug/netcoreapp2.0/Solid.Liskov.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/bin/Debug/netcoreapp2.0/Solid.Liskov.pdb
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.csprojResolveAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Liskov/obj/Debug/netcoreapp2.0/Solid.Liskov.pdb
