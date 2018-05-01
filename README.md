@@ -7,3 +7,5 @@ This principle was named for Barbara Liskov, who first described the principle i
 Now to have substitutability work, child classes must not :
 1. Remove Base class behaviour
 2. Violate Base class invariants
+
+The Liskov Principle is implemented in "Solid.Liskov" Project
