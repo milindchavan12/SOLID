@@ -1,25 +1,20 @@
 ﻿<Properties StartupConfiguration="{FFED2BC1-3C7A-4151-A2DA-D6430E969A31}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Solid.Tests/CalculateAreaLiskovTests.cs">
+  <MonoDevelop.Ide.ItemProperties.Solid.ISP FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Solid.ISP/IConfigurations.cs">
     <Files>
       <File FileName="Solid.Liskov/Rectangle.cs" Line="12" Column="35" />
-      <File FileName="Solid.Liskov/Square.cs" Line="14" Column="1" />
-      <File FileName="Solid.Tests/CalculateAreaLiskovTests.cs" Line="13" Column="68" />
+      <File FileName="Solid.Liskov/Square.cs" Line="6" Column="33" />
+      <File FileName="Solid.Tests/CalculateAreaLiskovTests.cs" Line="20" Column="42" />
       <File FileName="Solid.Liskov/Shape.cs" Line="6" Column="39" />
+      <File FileName="Solid.ISP/Configurations.cs" Line="14" Column="9" />
+      <File FileName="Solid.ISP/AboutPage.cs" Line="12" Column="9" />
+      <File FileName="Solid.ISP/IConfigurations.cs" Line="4" Column="40" />
+      <File FileName="Solid.ISP/IApplicationsSettings.cs" Line="7" Column="35" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="Solid" expanded="True">
-            <Node name="Solid.Tests" expanded="True">
-              <Node name="Solid" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="CalculateAreaLiskovTests" expanded="True">
-                    <Node name="Square_Nine_When_3X3_Test" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="Solid" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
