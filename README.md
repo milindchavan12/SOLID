@@ -15,3 +15,10 @@ The Interface Segregation Principle states that client should not be forced to d
 
 # 5. Dependency Inversion Principle
 High-Level modules should not depend upon low-level modules. Both should depend upon abstractions. Abstractions should not depend upon details. Details should depend upon abstractions.
+
+Dependancy Injection is technique that is used to allow calling code to inject the dependancies a class needs when it is instantiated.
+
+3 Primary Principles:
+-> Constructor Injection
+-> Property Injection
+-> Parameter Injection 
