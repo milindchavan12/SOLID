@@ -1,0 +1,8 @@
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/bin/Debug/netcoreapp2.0/Solid.ISP.deps.json
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/bin/Debug/netcoreapp2.0/Solid.ISP.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/bin/Debug/netcoreapp2.0/Solid.ISP.pdb
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/obj/Debug/netcoreapp2.0/Solid.ISP.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/obj/Debug/netcoreapp2.0/Solid.ISP.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/obj/Debug/netcoreapp2.0/Solid.ISP.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/obj/Debug/netcoreapp2.0/Solid.ISP.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.ISP/obj/Debug/netcoreapp2.0/Solid.ISP.pdb

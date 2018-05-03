@@ -4,9 +4,12 @@ namespace Solid.ISP
 {
     public class Configurations : IConfigurations
     {
-        public static IConfigurations Settings()
+        public static IConfigurations Settings
         {
-            return new Configurations();
+            get
+            {
+                return new Configurations();
+            }
         }
 
         public string About

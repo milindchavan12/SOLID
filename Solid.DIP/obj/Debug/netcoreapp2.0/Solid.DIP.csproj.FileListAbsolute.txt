@@ -1,0 +1,9 @@
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/bin/Debug/netcoreapp2.0/Solid.DIP.deps.json
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/bin/Debug/netcoreapp2.0/Solid.DIP.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/bin/Debug/netcoreapp2.0/Solid.DIP.pdb
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/obj/Debug/netcoreapp2.0/Solid.DIP.csprojResolveAssemblyReference.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/obj/Debug/netcoreapp2.0/Solid.DIP.csproj.CoreCompileInputs.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/obj/Debug/netcoreapp2.0/Solid.DIP.AssemblyInfoInputs.cache
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/obj/Debug/netcoreapp2.0/Solid.DIP.AssemblyInfo.cs
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/obj/Debug/netcoreapp2.0/Solid.DIP.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.DIP/obj/Debug/netcoreapp2.0/Solid.DIP.pdb

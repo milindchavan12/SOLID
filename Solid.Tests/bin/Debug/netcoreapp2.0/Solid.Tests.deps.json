@@ -9,6 +9,8 @@
       "Solid.Tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "15.3.0-preview-20170628-02",
+          "Solid.DIP": "1.0.0",
+          "Solid.ISP": "1.0.0",
           "Solid.Liskov": "1.0.0",
           "xunit": "2.2.0",
           "xunit.runner.visualstudio": "2.2.0"
@@ -1025,6 +1027,16 @@
           "System.Threading.ThreadPool": "4.3.0"
         }
       },
+      "Solid.DIP/1.0.0": {
+        "runtime": {
+          "Solid.DIP.dll": {}
+        }
+      },
+      "Solid.ISP/1.0.0": {
+        "runtime": {
+          "Solid.ISP.dll": {}
+        }
+      },
       "Solid.Liskov/1.0.0": {
         "runtime": {
           "Solid.Liskov.dll": {}
@@ -1562,6 +1574,16 @@
       "sha512": "sha512-CZimTpet23CeI2oXjDtICecAuEJ8Z4xSwNFY2tTKcGfm4IzKBrFmS3yzdqMMdAfiHYUgKlcyefflLOyO9ArKyQ==",
       "path": "xunit.runner.visualstudio/2.2.0",
       "hashPath": "xunit.runner.visualstudio.2.2.0.nupkg.sha512"
+    },
+    "Solid.DIP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solid.ISP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Solid.Liskov/1.0.0": {
       "type": "project",

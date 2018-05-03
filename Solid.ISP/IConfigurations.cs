@@ -1,9 +1,8 @@
 ﻿using System;
 namespace Solid.ISP
 {
-    public interface IConfigurations
+    public interface IConfigurations : IApplicationsSettings
     {
-        string ApplicationName { get; }
-        string AuthorName { get; }
+        string About { get; }
     }
 }

@@ -14,5 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Solid.Liskov\Solid.Liskov.csproj" />
+    <ProjectReference Include="..\Solid.DIP\Solid.DIP.csproj" />
+    <ProjectReference Include="..\Solid.ISP\Solid.ISP.csproj" />
   </ItemGroup>
 </Project>

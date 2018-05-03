@@ -14,3 +14,7 @@
 /Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/obj/Debug/netcoreapp2.0/Solid.Tests.AssemblyInfo.cs
 /Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/obj/Debug/netcoreapp2.0/Solid.Tests.dll
 /Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/obj/Debug/netcoreapp2.0/Solid.Tests.pdb
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/bin/Debug/netcoreapp2.0/Solid.DIP.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/bin/Debug/netcoreapp2.0/Solid.ISP.dll
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/bin/Debug/netcoreapp2.0/Solid.DIP.pdb
+/Users/Milind/Documents/Sources/VS/Solid/Solid.Tests/bin/Debug/netcoreapp2.0/Solid.ISP.pdb
