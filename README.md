@@ -22,3 +22,8 @@ Three Primary Principles:
 - Constructor Injection
 - Property Injection
 - Parameter Injection 
+
+# IoC Container
+- Responsible for object graph instantiation
+- Initiated at Application Start via code or configurations
+- Managed interfaces and implemention to be used are registered with container
