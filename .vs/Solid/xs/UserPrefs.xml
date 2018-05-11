@@ -1,21 +1,5 @@
 ﻿<Properties StartupConfiguration="{FFED2BC1-3C7A-4151-A2DA-D6430E969A31}|Default">
-  <MonoDevelop.Ide.ItemProperties.Solid.ISP FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Solid.DIP/NotifyCustomerService.cs">
-    <Files>
-      <File FileName="Solid.DIP/Models/Order.cs" Line="16" Column="6" />
-      <File FileName="Solid.Tests/OrderDependencyInjectionTests.cs" Line="14" Column="38" />
-      <File FileName="Solid.DIP/Models/PaymentDetails.cs" Line="13" Column="18" />
-      <File FileName="Solid.DIP/Interfaces/INotifyCustomer.cs" Line="11" Column="1" />
-      <File FileName="Solid.DIP/NotifyCustomerService.cs" Line="4" Column="45" />
-    </Files>
-    <Pads>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Solid" expanded="True" selected="True" />
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
@@ -23,5 +7,4 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Solid.Tests PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Solid.DIP FirstBuild="True" />
 </Properties>
