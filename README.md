@@ -5,6 +5,9 @@
 
 ![img text](https://www.tomdalling.com/images/posts/srp.jpg)
 
+## 2. Open-Close Principle
+> A class should be open to extension, but closed to modification.
+
 ## 3. The Liskov Substitution Principle
 Functions that use pointers to base classes must be able to use objects of derived classes without knowing it.
 
