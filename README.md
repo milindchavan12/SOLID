@@ -1,6 +1,7 @@
 # SOLID
 
 # 3. The Liskov Substitution Principle
+Functions that use pointers to base classes must be able to use objects of derived classes without knowing it.
 The Liskov Substitution Principle states that subtypes must be substitutable for their base types. 
 This principle was named for Barbara Liskov, who first described the principle in 1988.
 
