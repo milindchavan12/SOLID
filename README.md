@@ -2,6 +2,7 @@
 
 ## 1. Single Responsibility Principle (S.R.P)
 > A class should have one, and only one, reason to change.
+
 ![img text](https://www.tomdalling.com/images/posts/srp.jpg)
 
 ## 3. The Liskov Substitution Principle
