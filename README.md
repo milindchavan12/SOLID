@@ -12,7 +12,7 @@
 Functions that use pointers to base classes must be able to use objects of derived classes without knowing it.
 
 > Derived classes must be substitutable for their base classes.
-This principle was named for Barbara Liskov, who first described the principle in 1988.
+If any module is using a Base class then the reference to that Base class can be replaced with a Derived class without affecting the functionality of the module.
 
 Now to have substitutability work, child classes must not :
 1. Remove Base class behaviour
